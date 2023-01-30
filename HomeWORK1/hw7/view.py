@@ -235,4 +235,4 @@ def exit_answer() -> bool:
 
 def show_message(text: str):
     """Вывести сообщение пользователю в консоль"""
-    print(text)
+    print(text)     
